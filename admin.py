@@ -1,7 +1,3 @@
-
-
-pip install GitPython
-
 # Import the json module to allow us to read and write data in JSON format.
 import json
 
